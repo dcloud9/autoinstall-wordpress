@@ -1,4 +1,4 @@
-Automated WordPress Install for Chef-solo.
+<p>Automated WordPress Install for Chef-solo.</p>
 From a vanilla Ubuntu install, sudo to root user.
 1. Download or copy/paste lookmanohands.sh.
 2. # chmod 750 lookmanohands.sh
