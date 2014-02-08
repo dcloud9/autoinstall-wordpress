@@ -1,2 +1,2 @@
-file_cache_path "/root/chef-solo"
-cookbook_path "/root/chef-repo/cookbooks"
+file_cache_path "/tmp"
+cookbook_path "/root/autoinstall-wordpress/cookbooks"
