@@ -1,5 +1,5 @@
 {
-  "mysql": {"server_root_password": "808052769e2c6d909027a2905b224bad", "server_debian_password": "569d1ed2d46870cc020fa87be83af98d", "server_repl_password": "476911180ee92a2ee5a471f33340f6f4"},
-  "phpapp": {"db_password": "212b09752d173876a84d374333ae1ffe"},
+  "mysql": {"server_root_password": "changemyrootpass", "server_debian_password": "569d1ed2d46870cc020fa87be83af98d", "server_repl_password": "476911180ee92a2ee5a471f33340f6f4"},
+  "phpapp": {"db_password": "changemywpdbpass"},
   "run_list": [ "recipe[apt]", "recipe[phpapp]" ]
 }
