@@ -1,5 +1,5 @@
 {
-  "mysql": {"server_root_password": "changemyrootpass", "server_debian_password": "569d1ed2d46870cc020fa87be83af98d", "server_repl_password": "476911180ee92a2ee5a471f33340f6f4"},
-  "phpapp": {"db_password": "changemywpdbpass"},
+  "mysql": {"server_root_password": "changemyrootpass", "server_debian_password": "changemydbsysmaintpass", "server_repl_password": "changemydbreplpass"},
+  "phpapp": {"db_password": "changemyWPdbpass"},
   "run_list": [ "recipe[apt]", "recipe[phpapp]" ]
 }
